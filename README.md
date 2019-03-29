@@ -1,6 +1,6 @@
 This project is Example of Angular and node websocket.
 
-It is a chat application project where group of people can chat with each other
+It is a chat application project where group of people can chat with each other in private
 
 Quick start
 ------------------------
